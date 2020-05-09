@@ -33,6 +33,28 @@
     vertical-align: middle;
     width: 100%;
   }
+
+
+  .container,
+  h1  {
+      color: blue; 
+      text-align: center;
+      font-weight: bold;
+      padding-top: 5%; 
+      padding-left: 5%;
+      padding-bottom: 1%;
+      margin-bottom: 20px;
+      margin: auto;
+  
+    }
+    
+#img-pictures  {
+    margin: auto;
+ }
+
+ img {
+    padding: 5px 5px;
+ }
   
   /* Responsive layout - makes a two column-layout instead of four columns */
   @media screen and (max-width: 800px) {

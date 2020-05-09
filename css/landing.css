@@ -73,7 +73,7 @@ h1 {
   text-align: center;
   top: 40%; 
   width: 100%;
-  font-size: 100px;
+  font-size: 175px;
   font-weight: bold;
   opacity: 0.3;
   font-family: 'Open Sans', sans-serif;
@@ -84,23 +84,23 @@ h1 {
 .container {
     text-align: center;
     margin-top: -10em;
+  
 }
 
 h2 {
     margin-bottom: 40px;
     color: white;
     font-family: 'Tangerine', serif;
-    font-style: font-effect-emboss;
-        /* font-size: 48px; */
+     
 }
 
 html,
 body {
   margin: 0;
   padding: 0;
-  background: black;
+  background:  black;
   text-align: center;
-  color: grey;
+  color: white;
 }
 
 a {
